@@ -4,6 +4,10 @@ Basic docker alpine image including [chamber](https://github.com/segmentio/chamb
 The current alpine image used is 3.4 while chamber version is set to 1.9.
 The image has been published to [Docker Hub](https://hub.docker.com/r/thingful/alpine-chamber) and can be installed by running
 
+
 ```
 docker pull thingful/alpine-chamber
 ```
+
+## License
+This project is licensed under the terms of Apache License 2.0.
